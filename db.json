@@ -92,9 +92,9 @@
         }
     ],
     "cycleImages" : [
-        "url": "http://img2015.zdface.com/20201006/9fb327149df956cddc73f67c1e6fd1a3.jpg",
-        "url": "http://img2015.zdface.com/20201007/e713e3ca3bc2b991ae2e4ae05fad71e6.jpg",
-        "url": "http://img2015.zdface.com/20201006/9fb327149df956cddc73f67c1e6fd1a3.jpg",
-        "url": "http://img2015.zdface.com/20201007/e713e3ca3bc2b991ae2e4ae05fad71e6.jpg"
-    ]
+        {"url": "http://img2015.zdface.com/20201006/9fb327149df956cddc73f67c1e6fd1a3.jpg"},
+        {"url": "http://img2015.zdface.com/20201007/e713e3ca3bc2b991ae2e4ae05fad71e6.jpg"},
+        {"url": "http://img2015.zdface.com/20201006/9fb327149df956cddc73f67c1e6fd1a3.jpg"},
+        {"url": "http://img2015.zdface.com/20201007/e713e3ca3bc2b991ae2e4ae05fad71e6.jpg"}
+    ],
 }
